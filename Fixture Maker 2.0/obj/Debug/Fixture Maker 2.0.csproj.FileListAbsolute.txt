@@ -1,0 +1,29 @@
+C:\Users\LazyProgrammer\source\repos\Fixture Maker 2.0\Fixture Maker 2.0\bin\Debug\Fixture Maker 2.0.exe.config
+C:\Users\LazyProgrammer\source\repos\Fixture Maker 2.0\Fixture Maker 2.0\bin\Debug\Fixture Maker 2.0.exe
+C:\Users\LazyProgrammer\source\repos\Fixture Maker 2.0\Fixture Maker 2.0\bin\Debug\Fixture Maker 2.0.pdb
+C:\Users\LazyProgrammer\source\repos\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture_Maker_2._0.Form1.resources
+C:\Users\LazyProgrammer\source\repos\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture_Maker_2._0.Form2.resources
+C:\Users\LazyProgrammer\source\repos\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture_Maker_2._0.Properties.Resources.resources
+C:\Users\LazyProgrammer\source\repos\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture Maker 2.0.csproj.GenerateResource.cache
+C:\Users\LazyProgrammer\source\repos\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture Maker 2.0.csproj.CoreCompileInputs.cache
+C:\Users\LazyProgrammer\source\repos\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture Maker 2.0.exe
+C:\Users\LazyProgrammer\source\repos\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture Maker 2.0.pdb
+C:\Users\LazyProgrammer\source\repos\Fixture Maker 2.0\Fixture Maker 2.0\bin\Debug\Database.mdf
+C:\Users\LazyProgrammer\source\repos\Fixture Maker 2.0\Fixture Maker 2.0\bin\Debug\Database_log.ldf
+C:\Users\LazyProgrammer\source\repos\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture Maker 2.0.csprojAssemblyReference.cache
+C:\Users\LazyProgrammer\source\repos\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture_Maker_2._0.Form3.resources
+E:\Fixture Maker 2.0\Fixture Maker 2.0\bin\Debug\Database.mdf
+E:\Fixture Maker 2.0\Fixture Maker 2.0\bin\Debug\Database_log.ldf
+E:\Fixture Maker 2.0\Fixture Maker 2.0\bin\Debug\Fixture Maker 2.0.exe.config
+E:\Fixture Maker 2.0\Fixture Maker 2.0\bin\Debug\Fixture Maker 2.0.exe
+E:\Fixture Maker 2.0\Fixture Maker 2.0\bin\Debug\Fixture Maker 2.0.pdb
+E:\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture Maker 2.0.csproj.AssemblyReference.cache
+E:\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture Maker 2.0.csproj.SuggestedBindingRedirects.cache
+E:\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture_Maker_2._0.Form1.resources
+E:\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture_Maker_2._0.Form2.resources
+E:\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture_Maker_2._0.Form3.resources
+E:\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture_Maker_2._0.Properties.Resources.resources
+E:\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture Maker 2.0.csproj.GenerateResource.cache
+E:\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture Maker 2.0.csproj.CoreCompileInputs.cache
+E:\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture Maker 2.0.exe
+E:\Fixture Maker 2.0\Fixture Maker 2.0\obj\Debug\Fixture Maker 2.0.pdb

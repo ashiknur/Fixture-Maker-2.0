@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fixture Maker 2.0", "Fixture Maker 2.0\Fixture Maker 2.0.csproj", "{3F81EDA0-472D-4EAE-AC26-25583D22BCAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F81EDA0-472D-4EAE-AC26-25583D22BCAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F81EDA0-472D-4EAE-AC26-25583D22BCAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F81EDA0-472D-4EAE-AC26-25583D22BCAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F81EDA0-472D-4EAE-AC26-25583D22BCAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00EFE2AB-7556-4DA1-9DC5-FFFDFDB46F81}
+	EndGlobalSection
+EndGlobal
